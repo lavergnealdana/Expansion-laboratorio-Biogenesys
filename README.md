@@ -1,4 +1,4 @@
-biogenesys
+expansion_biogenesys
 
 # Expansión de laboratorios farmacéuticos Biogenesys en América Latina
 
